@@ -13,7 +13,7 @@ This setting creates a username based on your email address.
 So my_email_address@gmail.com become a username of my_email_address
 
 This plugin extends that feature and makes the username the full email address.
-
+i.e. the username becomes my_email_address@gmail.com
 
 == Changelog ==
 

@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Set the username as the actual email address, on WooCommerce account creation
+Plugin Name: WooCommerce Username as Email Address
 Plugin URI: http://wordpress.org/extend/plugins/wc-username-email
 Description: Set the username as the actual email address, on WooCommerce account creation
 Version: 1.0.0
