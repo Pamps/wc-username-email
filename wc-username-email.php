@@ -12,7 +12,7 @@ License: GPL2
 if( !defined( 'ABSPATH' ) )
 	exit;
 
-// Add filter to do the work
+// Set the users login as the email
 function wue_new_customer_data($new_customer_data){
 
 	// login becomes email	
